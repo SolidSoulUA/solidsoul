@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SolidSoul – Натуральна тверда косметика</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5dc; /* Колір крафт-паперу */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #8b4513; /* Натуральний коричневий відтінок */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        h1, h2 {
+            font-family: 'Georgia', serif;
+        }
+
+        h1 {
+            margin-top: 0;
+        }
+
+        footer {
+            background-color: #8b4513;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        .contact-info {
+            font-size: 1.2em;
+        }
+
+        .social-links a {
+            color: #8b4513;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>SolidSoul</h1>
+    <p>Натуральна тверда косметика ручної роботи</p>
+</header>
+
+<section>
+    <h2>Про нас</h2>
+    <p>SolidSoul – це інтернет-магазин натуральної косметики, створеної для тих, хто цінує екологічність, натуральні інгредієнти та ручну роботу. Ми спеціалізуємося на твердих продуктах, таких як шампуні, креми та мило, що дарують вашій шкірі та волоссю природне сяйво й здоров’я. Кожен продукт виготовлений із турботою про навколишнє середовище та вашу красу, без штучних добавок і пластикового пакування.</p>
+    <p>SolidSoul – це про стійкість, автентичність та естетику. Ми прагнемо поєднати високоякісні інгредієнти з природною енергією для вашого тіла та душі. Обираючи наші продукти, ви обираєте чистоту, відповідальність та турботу про себе та планету.</p>
+</section>
+
+<section>
+    <h2>Контакти</h2>
+    <p class="contact-info">Телефон: <a href="tel:+380980532353">098 053 2353</a></p>
+    <p class="social-links">Instagram: <a href="https://instagram.com/solidsoul_ua" target="_blank">@solidsoul_ua</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 SolidSoul. Всі права захищені.</p>
+</footer>
+
+</body>
+</html>
